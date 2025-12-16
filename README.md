@@ -111,8 +111,11 @@ public struct ThreatDetection {
 
 ## What It Detects
 ✅ Xcode/LLDB debugger (P_TRACED flag)
-✅ Binary patching (Mach-O hash mismatch) 
+
+✅ Binary patching (Mach-O hash mismatch)
+
 ✅ Frida/Objection (timing slowdown >100ms)
+
 ✅ Charles/Burp/mitmproxy (system proxies)
 
 ## Security & Compliance
